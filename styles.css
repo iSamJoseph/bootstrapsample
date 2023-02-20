@@ -1,0 +1,78 @@
+body {
+  background-image: url("images/build.jpg");
+  height: 200px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logoimg {
+  height: 30px;
+  width: 35px;
+  margin-right: 300px;
+}
+
+.carousel-inner img {
+  width: 25%;
+  height: 50%;
+  margin-top: 150px;
+}
+.btn {
+  font-size: 13px;
+}
+
+.secone {
+  margin-top: 300px;
+}
+.violet {
+  background-color: #7d56c0;
+}
+.seccol {
+  background-color: #ab46b8;
+}
+.thcol {
+  background-color: #24a69b;
+}
+.frcol {
+  background-color: #26b7f7;
+}
+
+.secimg {
+  height: 166px;
+  margin-right: 20px;
+}
+
+.hell {
+  margin-left: 265px;
+}
+.bgcolor1 {
+  background-color: blue;
+}
+
+.img4 {
+  height: 100px;
+}
+.img5 {
+  height: 100px;
+}
+.img6 {
+  height: 100px;
+}
+.img7 {
+  height: 100px;
+}
+
+.secolor {
+  background-color: blue;
+}
+
+.lastsec {
+  background-image: url("images/build.jpg");
+  height: 400px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.lafrm {
+  height: 40px;
+}
