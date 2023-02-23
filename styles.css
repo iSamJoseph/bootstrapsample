@@ -1,0 +1,294 @@
+body {
+  background-image: url("images/build.jpg");
+  height: 200px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logoimg {
+  height: 30px;
+  width: 35px;
+  margin-right: 150px;
+}
+.about {
+  margin-left: 170px;
+}
+
+.btn {
+  font-size: 13px;
+  border-radius: 0;
+  background-color: white;
+}
+
+.violet {
+  background-color: #7d56c0;
+}
+.seccol {
+  background-color: #ab46b8;
+}
+.thcol {
+  background-color: #24a69b;
+}
+.frcol {
+  background-color: #26b7f7;
+}
+
+.secimg {
+  height: 166px;
+  margin-right: 20px;
+}
+
+.bgcolor1 {
+  background-color: blue;
+}
+
+.img4 {
+  height: 100px;
+}
+.img5 {
+  height: 100px;
+}
+.img6 {
+  height: 100px;
+}
+.img7 {
+  height: 100px;
+}
+
+.last {
+  background-image: url("images/build2.jpg");
+  height: 650px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 0;
+  margin-top: 390px;
+}
+.lastcol i {
+  font-size: 17px !important;
+  color: #26b7f7;
+}
+.last h2 {
+  font-size: 29px;
+  font-weight: bold;
+}
+.lastform {
+  margin-left: ;
+}
+.lastcol {
+  margin-left: ;
+}
+
+.succfont {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 150px;
+  margin-left: 270px;
+}
+.succfont h1 {
+  color: white;
+  font-weight: bold;
+}
+
+.caroclass {
+  padding: 90px 0;
+}
+.caroclass i {
+  font-size: 15px;
+}
+.btn1 {
+  background-color: white;
+  color: black;
+  font-size: 13px;
+  border-radius: 0%;
+}
+.btn2 {
+  background-color: transparent;
+  color: white;
+  font-size: 14px;
+  border-radius: 0%;
+  border: 1px solid;
+  width: 115px;
+  height: 35px;
+}
+
+.buynow {
+  background-color: transparent;
+  color: white;
+  font-size: 14px;
+  border-radius: 0%;
+  border: 1px solid;
+  width: 115px;
+  height: 35px;
+}
+
+.four-color-section {
+  margin-top: 230px;
+}
+.four-color-section i {
+  font-size: 40px;
+}
+.four-color-section h4 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.four-color-section p {
+  font-size: 14px;
+}
+
+.wrk-class {
+  padding: 30px 0;
+  background-color: azure;
+  height: 480px;
+}
+.wrk-class h4 {
+  font-size: 25px;
+  font-weight: bold;
+}
+.wrk-class h2 {
+  font-weight: bold;
+}
+.colorbox i {
+  font-size: 40px !important;
+  margin-top: 3px;
+}
+
+.imgfor {
+  padding: 75px;
+  height: 440px;
+}
+.imgfor h2 {
+  font-weight: bold;
+  font-size: 29px;
+}
+.imgfor p {
+  font-weight: lighter;
+  font-size: 14px;
+}
+.imgfor i {
+  font-size: 20px;
+}
+
+.imagesone {
+  height: 200px;
+  width: 240px;
+  margin-top: 7px;
+}
+.imagestwo {
+  height: 210px;
+  width: 240px;
+}
+
+.firstimgrow {
+  margin-left: 260px;
+}
+.firstimgcontent {
+  margin-left: px;
+}
+.firstimgcontent p {
+  font-size: 12px;
+  margin-left: 24px;
+}
+
+.secondimgrow {
+  margin-top: 40px;
+  margin-left: px;
+}
+.secondimgcontent {
+  margin-top: 40px;
+  margin-left: 255px;
+}
+.secondimgcontent p {
+  font-size: 12px;
+  margin-left: 24px;
+}
+
+.secolor {
+  background-color: #26b7f7;
+  height: 750px;
+  padding: 100px o;
+  margin-top: 350px;
+}
+.secolor h1 {
+  font-weight: bold;
+}
+.pricingclassone {
+  height: 500px;
+  background-color: #777273;
+}
+.pricingclasstwo {
+  height: 500px;
+  background-color: #51ab9b;
+}
+.pricingclassthree {
+  height: 500px;
+  background-color: #f86f5e;
+}
+.secolor h2 {
+  font-size: 29px;
+  font-weight: bold;
+}
+
+.teammem {
+  padding: 30px 0;
+  height: 360px;
+  margin-top: 0px;
+}
+.teamimg {
+  height: 190px;
+  width: 190px;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.teammem h5 {
+  font-size: 12px;
+  color: #7f7b8d;
+}
+.teammem h2 {
+  font-size: 29px;
+  font-weight: bold;
+}
+.teammem i {
+  font-size: 15px !important;
+  color: skyblue;
+}
+.teammem p {
+  font-size: 13px;
+}
+
+.firstmembcont {
+  margin-top: 25px;
+}
+
+.secondmembcont {
+  margin-top: 25px;
+}
+
+.thirdmembcont {
+  margin-top: 25px;
+}
+
+.formembcont {
+  margin-top: 25px;
+}
+
+.accord {
+  height: 430px;
+}
+.accordion-button {
+  font-size: 15px;
+}
+
+.footerbg{background-color: #2F3F9E;}
+.footerbg i {
+  font-size: 10px !important;
+}
+
+.form-control:focus,
+.form-control:active {
+  border-color: #01d28e !important;
+}
+
+.btn.btn-primary:hover {
+  background-color: #28a745 !important;
+}
